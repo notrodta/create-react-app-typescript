@@ -1,3 +1,7 @@
+Reference:
+
+https://www.newline.co/@kchan/testing-a-create-react-app-typescript-project-with-jest-and-react-testing-library--c157b34e
+
 # Create React App - TypeScript Template
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is based on the `tyepscript` template.
